@@ -5,6 +5,7 @@
     <lastmod>2019-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://jafgreenmaroc.com/phone/index.html"/>
     <image:image>
       <image:loc>http://jafgreenmaroc.com/images/logo.jpg</image:loc>
     </image:image>
@@ -14,6 +15,7 @@
     <lastmod>2019-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://jafgreenmaroc.com/phone/produits.html"/>
     <image:image>
       <image:loc>http://jafgreenmaroc.com/images/rhizo-root%201l%20copy.png</image:loc>
     </image:image>
@@ -50,6 +52,7 @@
     <lastmod>2019-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://jafgreenmaroc.com/phone/a-propos.html"/>
     <image:image>
       <image:loc>http://jafgreenmaroc.com/images/logo-crop-u12549.png</image:loc>
     </image:image>
@@ -65,8 +68,9 @@
     <lastmod>2019-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://jafgreenmaroc.com/phone/contact.html"/>
     <image:image>
-      <image:loc>http://jafgreenmaroc.com/images/logo-crop-u12159.png</image:loc>
+      <image:loc>http://jafgreenmaroc.com/images/logo-crop-u121592.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -74,12 +78,14 @@
     <lastmod>2019-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://jafgreenmaroc.com/phone/formations.html"/>
   </url>
   <url>
     <loc>http://jafgreenmaroc.com/biostimulants.html</loc>
     <lastmod>2019-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://jafgreenmaroc.com/phone/biostimulants.html"/>
     <image:image>
       <image:loc>http://jafgreenmaroc.com/images/rhizo-root%201l%20copy.png</image:loc>
     </image:image>
@@ -98,6 +104,7 @@
     <lastmod>2019-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://jafgreenmaroc.com/phone/agents-pollinisateurs.html"/>
     <image:image>
       <image:loc>http://jafgreenmaroc.com/images/pollinisation-crop-u14616.png</image:loc>
     </image:image>
@@ -113,6 +120,7 @@
     <lastmod>2019-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://jafgreenmaroc.com/phone/engrais-standards.html"/>
     <image:image>
       <image:loc>http://jafgreenmaroc.com/images/rhizo-root%201l%20copy.png</image:loc>
     </image:image>
@@ -131,6 +139,7 @@
     <lastmod>2019-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://jafgreenmaroc.com/phone/correcteurs-de-carrence.html"/>
     <image:image>
       <image:loc>http://jafgreenmaroc.com/images/rhizo-root%201l%20copy.png</image:loc>
     </image:image>
