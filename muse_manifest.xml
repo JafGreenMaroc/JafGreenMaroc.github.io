@@ -1,42 +1,42 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jafgreenmaroc.com" resolutions="1x" timestamp="1562657236189">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jafgreenmaroc.com" resolutions="1x" timestamp="1562924006351">
   <folder name="css">
     <file name="site_global.css" crc="4154027563"/>
-    <file name="master_a-master.css" crc="103909928" ref="engrais-standards:a-propos:formations:agents-pollinisateurs:contact:index:produits:correcteurs-de-carrence:biostimulants"/>
-    <file name="engrais-standards.css" crc="459226394" ref="engrais-standards"/>
-    <file name="iefonts_engrais-standards.css" crc="187794859" ref="engrais-standards"/>
-    <file name="a-propos.css" crc="3980100555" ref="a-propos"/>
-    <file name="iefonts_a-propos.css" crc="46966021" ref="a-propos"/>
-    <file name="formations.css" crc="265307663" ref="formations"/>
-    <file name="iefonts_formations.css" crc="72036001" ref="formations"/>
-    <file name="gallerie.css" crc="4193191577" ref="gallerie"/>
-    <file name="agents-pollinisateurs.css" crc="4284895393" ref="agents-pollinisateurs"/>
-    <file name="iefonts_agents-pollinisateurs.css" crc="346005764" ref="agents-pollinisateurs"/>
-    <file name="contact.css" crc="125880277" ref="contact"/>
-    <file name="iefonts_contact.css" crc="82512843" ref="contact"/>
-    <file name="index.css" crc="244029274" ref="index"/>
-    <file name="produits.css" crc="323517523" ref="produits"/>
-    <file name="correcteurs-de-carrence.css" crc="4126244124" ref="correcteurs-de-carrence"/>
-    <file name="iefonts_correcteurs-de-carrence.css" crc="4218139036" ref="correcteurs-de-carrence"/>
-    <file name="biostimulants.css" crc="346852354" ref="biostimulants"/>
-    <file name="iefonts_biostimulants.css" crc="97603531" ref="biostimulants"/>
+    <file name="master_a-master.css" crc="4251948776" ref="engrais-standards:a-propos:formations:agents-pollinisateurs:contact:index:produits:correcteurs-de-carrence:biostimulants:gallerie"/>
+    <file name="engrais-standards.css" crc="376918320" ref="engrais-standards"/>
+    <file name="iefonts_engrais-standards.css" crc="41684714" ref="engrais-standards"/>
+    <file name="a-propos.css" crc="4254942271" ref="a-propos"/>
+    <file name="iefonts_a-propos.css" crc="3797415446" ref="a-propos"/>
+    <file name="formations.css" crc="4119796290" ref="formations"/>
+    <file name="iefonts_formations.css" crc="4160213442" ref="formations"/>
+    <file name="gallerie.css" crc="434726957" ref="gallerie"/>
+    <file name="agents-pollinisateurs.css" crc="3842134983" ref="agents-pollinisateurs"/>
+    <file name="iefonts_agents-pollinisateurs.css" crc="324457125" ref="agents-pollinisateurs"/>
+    <file name="contact.css" crc="4240897458" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3854274931" ref="contact"/>
+    <file name="index.css" crc="156998220" ref="index"/>
+    <file name="produits.css" crc="26778145" ref="produits"/>
+    <file name="correcteurs-de-carrence.css" crc="146635116" ref="correcteurs-de-carrence"/>
+    <file name="iefonts_correcteurs-de-carrence.css" crc="3844618632" ref="correcteurs-de-carrence"/>
+    <file name="biostimulants.css" crc="468707224" ref="biostimulants"/>
+    <file name="iefonts_biostimulants.css" crc="3819375621" ref="biostimulants"/>
   </folder>
   <folder name="assets">
     <file name="catalogue-06-2019.pdf" crc="3952533619" seo="true" mt="1561722301000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>correcteurs-de-carrence:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>gallerie:phone>contact:index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence"/>
-    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>correcteurs-de-carrence:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>gallerie:phone>contact:index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>correcteurs-de-carrence:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>gallerie:phone>contact:index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence"/>
-    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>correcteurs-de-carrence:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>gallerie:phone>contact:index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence"/>
-    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>correcteurs-de-carrence:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>gallerie:phone>contact:index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>correcteurs-de-carrence:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>contact:index:a-propos:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence"/>
-    <file name="webpro.js" crc="242022427" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>correcteurs-de-carrence:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>contact:index:contact:produits:biostimulants:formations:engrais-standards:correcteurs-de-carrence"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>correcteurs-de-carrence:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>contact:index:produits:biostimulants:engrais-standards:correcteurs-de-carrence"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>correcteurs-de-carrence:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>contact:index:produits:biostimulants:engrais-standards:correcteurs-de-carrence"/>
-    <file name="touchswipe.js" crc="4066113679" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>correcteurs-de-carrence:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>contact:index:produits:biostimulants:engrais-standards:correcteurs-de-carrence"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>correcteurs-de-carrence:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>gallerie:phone>contact:index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence"/>
-    <file name="require.js" crc="4157109226" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>correcteurs-de-carrence:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>gallerie:phone>contact:index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>biostimulants:index:biostimulants:engrais-standards:correcteurs-de-carrence"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>gallerie:phone>contact:index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence:phone>correcteurs-de-carences"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>gallerie:phone>contact:index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence:phone>correcteurs-de-carences"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>gallerie:phone>contact:index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence:phone>correcteurs-de-carences"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>gallerie:phone>contact:index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence:phone>correcteurs-de-carences"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>gallerie:phone>contact:index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence:phone>correcteurs-de-carences"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>contact:index:a-propos:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence:phone>correcteurs-de-carences:gallerie:phone>gallerie"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>contact:index:contact:produits:biostimulants:formations:engrais-standards:correcteurs-de-carrence:phone>correcteurs-de-carences:phone>gallerie"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>contact:index:produits:biostimulants:engrais-standards:correcteurs-de-carrence:phone>correcteurs-de-carences:phone>gallerie"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>contact:index:produits:biostimulants:engrais-standards:correcteurs-de-carrence:phone>correcteurs-de-carences:phone>gallerie"/>
+    <file name="touchswipe.js" crc="4066113679" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>contact:index:produits:biostimulants:engrais-standards:correcteurs-de-carrence:phone>correcteurs-de-carences:phone>gallerie"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>gallerie:phone>contact:index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence:phone>correcteurs-de-carences"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>gallerie:phone>contact:index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence:phone>correcteurs-de-carences"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>biostimulants:index:biostimulants:engrais-standards:correcteurs-de-carrence:phone>engrais-standards:phone>correcteurs-de-carences"/>
     <file name="form_check.php" crc="62300408" ref="phone>contact"/>
     <file name="form_process.php" crc="91775217" ref="phone>contact"/>
     <file name="form-u15847.php" crc="446611071" ref="phone>contact"/>
@@ -44,75 +44,31 @@
     <file name="musewpdisclosure.js" crc="119288625" ref="formations"/>
   </folder>
   <folder name="images">
-    <file name="close-u16520-fr2.png" crc="3845982916" seo="true" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>correcteurs-de-carrence:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>contact">
-      <caption webpage="formations" alt=""/>
-      <caption webpage="produits" alt=""/>
+    <file name="close-u16520-fr2.png" crc="3845982916" seo="true" ref="phone>index:phone>produits:phone>biostimulants:phone>engrais-standards:phone>agents-pollinisateurs:phone>formations:phone>a-propos:phone>contact:phone>correcteurs-de-carences:phone>gallerie">
       <caption webpage="biostimulants" alt=""/>
+      <caption webpage="a-propos" alt=""/>
+      <caption webpage="gallerie" alt=""/>
       <caption webpage="correcteurs-de-carrence" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="agents-pollinisateurs" alt=""/>
-      <caption webpage="a-propos" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="agents-pollinisateurs" alt=""/>
+      <caption webpage="correcteurs-de-carences" alt=""/>
+      <caption webpage="formations" alt=""/>
+      <caption webpage="produits" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="logo-crop-u12159.png" crc="290123782" seo="true" ref="phone>index">
+    <file name="logo-crop-u12159.png" crc="4053505680" seo="true" ref="contact">
       <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="orgazym 1l copy.png" crc="4001967113" seo="true" ref="phone>produits">
-      <caption webpage="produits" alt=""/>
-    </file>
-    <file name="rhizo-root 1l copy.png" crc="185342561" seo="true" ref="phone>produits">
-      <caption webpage="produits" alt=""/>
-    </file>
-    <file name="rhizostar 1l copy.png" crc="101412413" seo="true" ref="phone>produits:phone>biostimulants">
-      <caption webpage="produits" alt=""/>
-    </file>
-    <file name="rhizo-root 5l copy.png" crc="4246090154" seo="true" ref="phone>produits">
-      <caption webpage="produits" alt=""/>
-    </file>
-    <file name="orgazym 5l copy.png" crc="275862042" seo="true" ref="phone>produits">
-      <caption webpage="produits" alt=""/>
-    </file>
-    <file name="magic fertilizer 1l copy.png" crc="3936014074" seo="true" ref="phone>produits">
-      <caption webpage="produits" alt=""/>
-    </file>
-    <file name="zinco 1l copy.png" crc="3944952726" seo="true" ref="phone>produits">
-      <caption webpage="produits" alt=""/>
-    </file>
-    <file name="zinco 5l copy.png" crc="135678301" seo="true" ref="phone>produits">
-      <caption webpage="produits" alt=""/>
-    </file>
-    <file name="biohumic 5l copy.png" crc="224715096" seo="true" ref="phone>produits">
-      <caption webpage="produits" alt=""/>
-    </file>
-    <file name="chadofer 4k copy.png" crc="4265655253" seo="true" ref="phone>produits">
-      <caption webpage="produits" alt=""/>
-    </file>
-    <file name="copper 2k copy.png" crc="3955426671" seo="true" ref="phone>produits">
+    <file name="rhizo-root 1l copy.png" crc="306850975" ref="phone>biostimulants:biostimulants">
+      <caption webpage="biostimulants" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
       <caption webpage="produits" alt=""/>
     </file>
     <file name="small_bee.png" crc="194052924" seo="true" ref="phone>produits:produits">
       <caption webpage="produits" alt=""/>
       <caption webpage="produits" alt=""/>
-    </file>
-    <file name="close-u16520-fr.png" crc="3845982916" ref="phone>biostimulants"/>
-    <file name="enzyma fort 1l copy.png" crc="457865643" seo="true" ref="phone>biostimulants">
-      <caption webpage="biostimulants" alt=""/>
-    </file>
-    <file name="enzyma fort 5l copy.png" crc="337789440" seo="true" ref="phone>biostimulants">
-      <caption webpage="biostimulants" alt=""/>
-    </file>
-    <file name="prev.png" crc="3934701677" ref="phone>biostimulants:biostimulants:engrais-standards:correcteurs-de-carrence">
-      <caption webpage="correcteurs-de-carrence" alt=""/>
-      <caption webpage="biostimulants" alt=""/>
-      <caption webpage="biostimulants" alt=""/>
-      <caption webpage="engrais-standards" alt=""/>
-    </file>
-    <file name="next.png" crc="4160974335" ref="phone>biostimulants:biostimulants:engrais-standards:correcteurs-de-carrence">
-      <caption webpage="correcteurs-de-carrence" alt=""/>
-      <caption webpage="biostimulants" alt=""/>
-      <caption webpage="biostimulants" alt=""/>
-      <caption webpage="engrais-standards" alt=""/>
     </file>
     <file name="logo-crop-u15956.png" crc="398746978" seo="true" ref="phone>a-propos">
       <caption webpage="a-propos" alt=""/>
@@ -120,149 +76,87 @@
     <file name="fleche.png" crc="3824601031" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="treefertilizer-1200x801.jpg" crc="3822974097" seo="true" ref="index">
+    <file name="treefertilizer-1200x801.jpg" crc="3822974097" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:produits"/>
-    <file name="drip-tape-irrigation-kit-2-1024x683.jpg" crc="4207140260" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:produits:phone>index:phone>produits"/>
+    <file name="drip-tape-irrigation-kit-2-1024x683.jpg" crc="4207140260" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="o-epandage-pesticides-facebook.jpg" crc="3879173581" seo="true" ref="index">
+    <file name="o-epandage-pesticides-facebook.jpg" crc="3879173581" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="male-worker-spreading-fertilizer-680714255-5bda4e8fc9e77c0051f8955f.jpg" crc="176567169" seo="true" ref="index">
+    <file name="male-worker-spreading-fertilizer-680714255-5bda4e8fc9e77c0051f8955f.jpg" crc="176567169" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="agricultural-lime-supplier.jpg" crc="425803631" seo="true" ref="index">
+    <file name="agricultural-lime-supplier.jpg" crc="425803631" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index:produits"/>
-    <file name="biohumic copy-crop-u21897.png" crc="4238191369" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="borocal copy-crop-u24221.png" crc="367479131" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calcivit copy-crop-u24241.png" crc="350627760" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="canphos copy-crop-u24261.png" crc="59700237" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="chadofer copy-crop-u24281.png" crc="3787930622" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="copper liquide copy-crop-u24301.png" crc="86818174" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="enzyma fort copy-crop-u24341.png" crc="217838542" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="floramine copy-crop-u24361.png" crc="4207055876" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fol potassium copy-crop-u24381.png" crc="87388644" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="magic copy-crop-u24401.png" crc="4025933958" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="mix planta copy-crop-u24421.png" crc="31284843" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="orga pk copy-crop-u24441.png" crc="4201210081" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="orgazym copy-crop-u24461.png" crc="4159005827" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="rhizoroot copy-crop-u24481.png" crc="374195922" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="rhizostar copy-crop-u24501.png" crc="4270769804" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="zinamine copy-crop-u24521.png" crc="330800366" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="zinca copy-crop-u24541.png" crc="3971264846" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="zinco copy-crop-u24561.png" crc="386835265" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:produits:phone>index:phone>produits"/>
     <file name="logo-crop-u12549.png" crc="507543255" seo="true" ref="a-propos">
       <caption webpage="a-propos" alt=""/>
     </file>
-    <file name="logo-crop-u121592.png" crc="4053505680" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="enzyma fort copy-crop-u24706.png" crc="4012107570" seo="true" ref="produits">
+    <file name="enzyma fort copy-crop-u24706.png" crc="4158714945" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="floramine copy-crop-u24774.png" crc="3831328238" seo="true" ref="produits">
+    <file name="floramine copy-crop-u24774.png" crc="4007983763" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="orga pk copy-crop-u24794.png" crc="113745924" seo="true" ref="produits">
+    <file name="orga pk copy-crop-u24794.png" crc="3905173511" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="orgazym copy-crop-u24814.png" crc="524010560" seo="true" ref="produits">
+    <file name="orgazym copy-crop-u24814.png" crc="317282708" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="rhizoroot copy-crop-u24834.png" crc="4129022511" seo="true" ref="produits">
+    <file name="rhizoroot copy-crop-u24834.png" crc="4110652467" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="rhizostar copy-crop-u24854.png" crc="4176899510" seo="true" ref="produits">
+    <file name="rhizostar copy-crop-u24854.png" crc="4085864882" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="zinamine copy-crop-u24874.png" crc="528095867" seo="true" ref="produits">
+    <file name="zinamine copy-crop-u24874.png" crc="4051658993" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="biohumic copy-crop-u25087.png" crc="402784238" seo="true" ref="produits">
+    <file name="biohumic copy-crop-u25087.png" crc="4215622618" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="borocal copy-crop-u25466.png" crc="208550151" seo="true" ref="produits">
+    <file name="borocal copy-crop-u25466.png" crc="3989271156" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="calcivit copy-crop-u25486.png" crc="48520126" seo="true" ref="produits">
+    <file name="calcivit copy-crop-u25486.png" crc="400133819" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="canphos copy-crop-u25506.png" crc="225739612" seo="true" ref="produits">
+    <file name="canphos copy-crop-u25506.png" crc="333755399" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="fol potassium copy-crop-u25526.png" crc="3878108019" seo="true" ref="produits">
+    <file name="fol potassium copy-crop-u25526.png" crc="27000278" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="magic copy-crop-u25546.png" crc="511081545" seo="true" ref="produits">
+    <file name="magic copy-crop-u25546.png" crc="397184521" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="mix planta copy-crop-u25566.png" crc="4265228706" seo="true" ref="produits">
+    <file name="mix planta copy-crop-u25566.png" crc="407616452" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="zinca copy-crop-u25586.png" crc="4108614605" seo="true" ref="produits">
+    <file name="zinca copy-crop-u25586.png" crc="3786664654" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="zinco copy-crop-u25606.png" crc="368749815" seo="true" ref="produits">
+    <file name="zinco copy-crop-u25606.png" crc="534416302" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="chadofer copy-crop-u25267.png" crc="338627054" seo="true" ref="produits">
+    <file name="chadofer copy-crop-u25267.png" crc="3951585567" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
-    <file name="copper liquide copy.png" crc="4044184280" seo="true" ref="produits">
+    <file name="copper liquide copy.png" crc="3838933793" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
     </file>
     <file name="catalogue icon-crop-u24601.png" crc="375747198" seo="true" ref="produits">
       <caption webpage="produits" alt=""/>
-    </file>
-    <file name="rhizoroot copy-u18612-fr.png" crc="469950218" ref="biostimulants"/>
-    <file name="enzyma fort copy-u18657-fr.png" crc="452716558" ref="biostimulants"/>
-    <file name="orgazym copy-u23056-fr.png" crc="3937994814" ref="biostimulants"/>
-    <file name="orga pk copy-u23078-fr.png" crc="396050204" ref="biostimulants"/>
-    <file name="zinamine copy-u23090-fr.png" crc="3856869256" ref="biostimulants"/>
-    <file name="floramine copy-u23134-fr.png" crc="3771132321" ref="biostimulants"/>
-    <file name="rhizostar copy-u23128-fr.png" crc="4197053014" ref="biostimulants"/>
-    <file name="rhizo-root 1l copy2.png" crc="306850975" ref="biostimulants">
-      <caption webpage="biostimulants" alt=""/>
     </file>
     <file name="rhizoroot copy318x477.png" crc="315437330" seo="true" ref="biostimulants">
       <caption webpage="biostimulants" alt=""/>
@@ -285,7 +179,6 @@
     <file name="rhizostar copy318x477.png" crc="144993905" seo="true" ref="biostimulants">
       <caption webpage="biostimulants" alt=""/>
     </file>
-    <file name="close-u5636-fr.png" crc="3842580726" ref="biostimulants:engrais-standards:correcteurs-de-carrence"/>
     <file name="pollinisation-crop-u14616.png" crc="4287153436" seo="true" ref="agents-pollinisateurs">
       <caption webpage="agents-pollinisateurs" alt=""/>
     </file>
@@ -295,15 +188,7 @@
     <file name="_5810190_orig-crop-u12848.png" crc="109552893" seo="true" ref="agents-pollinisateurs">
       <caption webpage="agents-pollinisateurs" alt=""/>
     </file>
-    <file name="biohumic copy-u23451-fr.png" crc="448588016" ref="engrais-standards"/>
-    <file name="mix planta copy-u23458-fr.png" crc="3815296125" ref="engrais-standards"/>
-    <file name="zinca copy-u23455-fr.png" crc="407606993" ref="engrais-standards"/>
-    <file name="magic copy-u23470-fr.png" crc="339999199" ref="engrais-standards"/>
-    <file name="zinco copy-u23464-fr.png" crc="4008436889" ref="engrais-standards"/>
     <file name="calcivit copy-u23559-fr.png" crc="3795989006" ref="engrais-standards"/>
-    <file name="fol potassium copy-u23466-fr.png" crc="381906432" ref="engrais-standards"/>
-    <file name="borocal copy-u23460-fr.png" crc="4152297681" ref="engrais-standards"/>
-    <file name="canphos copy-u23581-fr.png" crc="525518208" ref="engrais-standards"/>
     <file name="biohumic copy.png" crc="4227177819" seo="true" ref="engrais-standards">
       <caption webpage="engrais-standards" alt=""/>
     </file>
@@ -316,8 +201,9 @@
     <file name="mix planta copy.png" crc="4204608027" seo="true" ref="engrais-standards">
       <caption webpage="engrais-standards" alt=""/>
     </file>
-    <file name="zinco copy.png" crc="4167466889" seo="true" ref="engrais-standards">
+    <file name="zinco copy.png" crc="4000876156" seo="true" ref="phone>produits">
       <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="produits" alt=""/>
     </file>
     <file name="borocal copy.png" crc="481109231" seo="true" ref="engrais-standards">
       <caption webpage="engrais-standards" alt=""/>
@@ -332,56 +218,203 @@
       <caption webpage="engrais-standards" alt=""/>
     </file>
     <file name="chadofer copy-u23605-fr.png" crc="479173650" ref="correcteurs-de-carrence"/>
-    <file name="copper liquide copy-u23625-fr.png" crc="4109859190" ref="correcteurs-de-carrence"/>
-    <file name="chadofer copy.png" crc="4115402468" seo="true" ref="correcteurs-de-carrence">
+    <file name="chadofer copy.png" crc="448126539" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
       <caption webpage="correcteurs-de-carrence" alt=""/>
     </file>
     <file name="copper liquide copy2.png" crc="4180942217" seo="true" ref="correcteurs-de-carrence">
       <caption webpage="correcteurs-de-carrence" alt=""/>
     </file>
-    <file name="copper poudre copy.png" crc="4012429495" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="enzyma fort copy.png" crc="4132258188" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
     </file>
-    <file name="zinco.png" crc="203774756" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="floramine copy.png" crc="269269287" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="orga pk copy.png" crc="486835792" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="orgazym copy.png" crc="4285318978" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="rhizoroot copy.png" crc="322598204" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="rhizostar copy.png" crc="510498270" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="zinamine copy.png" crc="3878596387" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="biohumic copy-crop-u27498.png" crc="3776285142" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="borocal copy-crop-u27512.png" crc="530004660" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="calcivit copy-crop-u27506.png" crc="4001022191" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="canphos copy-crop-u27496.png" crc="3903358179" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="fol potassium copy-crop-u27508.png" crc="4072054313" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="magic copy-crop-u27510.png" crc="3883327920" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="mix planta copy-crop-u27504.png" crc="4108281709" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="zinca copy-crop-u27500.png" crc="446047324" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="copper liquide copy-crop-u27551.png" crc="4108474508" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="catalogue icon-crop-u27417.png" crc="375747198" seo="true" ref="phone>produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="rhizoroot copy-u27969-fr.png" crc="469950218" ref="phone>biostimulants:biostimulants"/>
+    <file name="enzyma fort copy-u27960-fr.png" crc="452716558" ref="phone>biostimulants:biostimulants"/>
+    <file name="orgazym copy-u27957-fr.png" crc="3937994814" ref="phone>biostimulants:biostimulants"/>
+    <file name="orga pk copy-u27955-fr.png" crc="396050204" ref="phone>biostimulants:biostimulants"/>
+    <file name="zinamine copy-u27967-fr.png" crc="3856869256" ref="phone>biostimulants:biostimulants"/>
+    <file name="floramine copy-u27964-fr.png" crc="3771132321" ref="phone>biostimulants:biostimulants"/>
+    <file name="rhizostar copy-u27972-fr.png" crc="4197053014" ref="phone>biostimulants:biostimulants"/>
+    <file name="rhizoroot copy116x175.png" crc="4164058171" seo="true" ref="phone>biostimulants">
+      <caption webpage="biostimulants" alt=""/>
+    </file>
+    <file name="enzyma fort copy116x175.png" crc="4220784948" seo="true" ref="phone>biostimulants">
+      <caption webpage="biostimulants" alt=""/>
+    </file>
+    <file name="orgazym copy116x175.png" crc="4010430849" seo="true" ref="phone>biostimulants">
+      <caption webpage="biostimulants" alt=""/>
+    </file>
+    <file name="orga pk copy116x175.png" crc="59709654" seo="true" ref="phone>biostimulants">
+      <caption webpage="biostimulants" alt=""/>
+    </file>
+    <file name="zinamine copy116x175.png" crc="70337533" seo="true" ref="phone>biostimulants">
+      <caption webpage="biostimulants" alt=""/>
+    </file>
+    <file name="floramine copy116x175.png" crc="4248611637" seo="true" ref="phone>biostimulants">
+      <caption webpage="biostimulants" alt=""/>
+    </file>
+    <file name="rhizostar copy116x175.png" crc="39653665" seo="true" ref="phone>biostimulants">
+      <caption webpage="biostimulants" alt=""/>
+    </file>
+    <file name="close-u27951-fr.png" crc="4037642258" ref="phone>biostimulants"/>
+    <file name="pollinisation-crop-u30020.png" crc="3983705258" seo="true" ref="phone>agents-pollinisateurs">
+      <caption webpage="agents-pollinisateurs" alt=""/>
+    </file>
+    <file name="beekeeping-supplies-image-crop-u30018.png" crc="3857455392" seo="true" ref="phone>agents-pollinisateurs">
+      <caption webpage="agents-pollinisateurs" alt=""/>
+    </file>
+    <file name="_5810190_orig-crop-u30022.png" crc="3881237390" seo="true" ref="phone>agents-pollinisateurs">
+      <caption webpage="agents-pollinisateurs" alt=""/>
+    </file>
+    <file name="biohumic copy-u29318-fr.png" crc="448588016" ref="phone>engrais-standards:engrais-standards"/>
+    <file name="magic copy-u29316-fr.png" crc="339999199" ref="phone>engrais-standards:engrais-standards"/>
+    <file name="fol potassium copy-u29307-fr.png" crc="381906432" ref="phone>engrais-standards:engrais-standards"/>
+    <file name="mix planta copy-u29325-fr.png" crc="3815296125" ref="phone>engrais-standards:engrais-standards"/>
+    <file name="zinco copy-u29310-fr.png" crc="4008436889" ref="phone>engrais-standards:engrais-standards"/>
+    <file name="borocal copy-u29322-fr.png" crc="4152297681" ref="phone>engrais-standards:engrais-standards"/>
+    <file name="zinca copy-u29327-fr.png" crc="407606993" ref="phone>engrais-standards:engrais-standards"/>
+    <file name="calcivit copy-u29313-fr.png" crc="384438150" ref="phone>engrais-standards"/>
+    <file name="canphos copy-u29331-fr.png" crc="525518208" ref="phone>engrais-standards:engrais-standards"/>
+    <file name="biohumic copy116x175.png" crc="4074324137" seo="true" ref="phone>engrais-standards">
+      <caption webpage="engrais-standards" alt=""/>
+    </file>
+    <file name="magic copy116x175.png" crc="4088462794" seo="true" ref="phone>engrais-standards">
+      <caption webpage="engrais-standards" alt=""/>
+    </file>
+    <file name="fol potassium copy116x175.png" crc="3759665004" seo="true" ref="phone>engrais-standards">
+      <caption webpage="engrais-standards" alt=""/>
+    </file>
+    <file name="mix planta copy116x175.png" crc="171159211" seo="true" ref="phone>engrais-standards">
+      <caption webpage="engrais-standards" alt=""/>
+    </file>
+    <file name="zinco copy116x175.png" crc="531474800" seo="true" ref="phone>engrais-standards">
+      <caption webpage="engrais-standards" alt=""/>
+    </file>
+    <file name="borocal copy-crop-u29337.png" crc="4203147516" seo="true" ref="phone>engrais-standards">
+      <caption webpage="engrais-standards" alt=""/>
+    </file>
+    <file name="zinca copy116x175.png" crc="4030153609" seo="true" ref="phone>engrais-standards">
+      <caption webpage="engrais-standards" alt=""/>
+    </file>
+    <file name="calcivit copy-crop-u29373.png" crc="479678809" seo="true" ref="phone>engrais-standards">
+      <caption webpage="engrais-standards" alt=""/>
+    </file>
+    <file name="canphos copy116x175.png" crc="4093341388" seo="true" ref="phone>engrais-standards">
+      <caption webpage="engrais-standards" alt=""/>
+    </file>
+    <file name="close-u29396-fr.png" crc="3842580726" ref="phone>engrais-standards:phone>correcteurs-de-carences:biostimulants:engrais-standards:correcteurs-de-carrence"/>
+    <file name="chadofer copy-u29847-fr.png" crc="8430412" ref="phone>correcteurs-de-carences"/>
+    <file name="copper liquide copy-u29850-fr.png" crc="4109859190" ref="phone>correcteurs-de-carences:correcteurs-de-carrence"/>
+    <file name="chadofer copy213x319.png" crc="282346515" seo="true" ref="phone>correcteurs-de-carences">
+      <caption webpage="correcteurs-de-carences" alt=""/>
+    </file>
+    <file name="copper liquide copy213x319.png" crc="4064178797" seo="true" ref="phone>correcteurs-de-carences">
+      <caption webpage="correcteurs-de-carences" alt=""/>
+    </file>
+    <file name="prev-u29852-fr.png" crc="170281942" ref="phone>correcteurs-de-carences"/>
+    <file name="next-u29843-fr.png" crc="3841377715" ref="phone>correcteurs-de-carences"/>
+    <file name="chadofer copy-crop-u30006.png" crc="4265234812" seo="true" ref="phone>correcteurs-de-carences">
+      <caption webpage="correcteurs-de-carences" alt=""/>
+    </file>
+    <file name="copper liquide copy116x175.png" crc="3858961346" seo="true" ref="phone>correcteurs-de-carences">
+      <caption webpage="correcteurs-de-carences" alt=""/>
+    </file>
+    <file name="prev-u5619-fr.png" crc="3934701677" ref="biostimulants:engrais-standards:correcteurs-de-carrence"/>
+    <file name="next-u5621-fr.png" crc="4160974335" ref="biostimulants:engrais-standards:correcteurs-de-carrence"/>
+    <file name="zinco copy2.png" crc="4167466889" seo="true" ref="engrais-standards">
+      <caption webpage="engrais-standards" alt=""/>
+    </file>
+    <file name="chadofer copy2.png" crc="4115402468" seo="true" ref="correcteurs-de-carrence">
+      <caption webpage="correcteurs-de-carrence" alt=""/>
     </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4216316863" ref="phone>formations:phone>index:phone>a-propos:phone>produits:phone>biostimulants:phone>contact:phone>engrais-standards:phone>correcteurs-de-carrence:phone>agents-pollinisateurs"/>
-      <file name="formations.css" crc="4227783090" ref="phone>formations"/>
-      <file name="index.css" crc="286167077" ref="phone>index"/>
-      <file name="a-propos.css" crc="15459421" ref="phone>a-propos"/>
+      <file name="master_a-master.css" crc="439114611" ref="phone>formations:phone>index:phone>a-propos:phone>produits:phone>biostimulants:phone>contact:phone>engrais-standards:phone>agents-pollinisateurs:phone>correcteurs-de-carences:phone>gallerie"/>
+      <file name="formations.css" crc="3782051691" ref="phone>formations"/>
+      <file name="index.css" crc="470112335" ref="phone>index"/>
+      <file name="a-propos.css" crc="200418194" ref="phone>a-propos"/>
       <file name="iefonts_a-propos.css" crc="4144563146" ref="phone>a-propos"/>
-      <file name="produits.css" crc="124045836" ref="phone>produits"/>
-      <file name="gallerie.css" crc="62426684" ref="phone>gallerie"/>
-      <file name="biostimulants.css" crc="3930879504" ref="phone>biostimulants"/>
-      <file name="iefonts_biostimulants.css" crc="22973867" ref="phone>biostimulants"/>
-      <file name="contact.css" crc="4003269295" ref="phone>contact"/>
+      <file name="produits.css" crc="4184990296" ref="phone>produits"/>
+      <file name="gallerie.css" crc="4278197533" ref="phone>gallerie"/>
+      <file name="biostimulants.css" crc="3792023989" ref="phone>biostimulants"/>
+      <file name="iefonts_biostimulants.css" crc="356786787" ref="phone>biostimulants"/>
+      <file name="contact.css" crc="3979905461" ref="phone>contact"/>
       <file name="iefonts_contact.css" crc="245998205" ref="phone>contact"/>
-      <file name="engrais-standards.css" crc="4227783090" ref="phone>engrais-standards"/>
-      <file name="correcteurs-de-carrence.css" crc="4227783090" ref="phone>correcteurs-de-carrence"/>
-      <file name="agents-pollinisateurs.css" crc="4227783090" ref="phone>agents-pollinisateurs"/>
+      <file name="engrais-standards.css" crc="250453400" ref="phone>engrais-standards"/>
+      <file name="agents-pollinisateurs.css" crc="81881949" ref="phone>agents-pollinisateurs"/>
+      <file name="iefonts_engrais-standards.css" crc="308843916" ref="phone>engrais-standards"/>
+      <file name="correcteurs-de-carences.css" crc="302563008" ref="phone>correcteurs-de-carences"/>
+      <file name="iefonts_correcteurs-de-carences.css" crc="128979160" ref="phone>correcteurs-de-carences"/>
+      <file name="iefonts_agents-pollinisateurs.css" crc="4051952099" ref="phone>agents-pollinisateurs"/>
     </folder>
-    <file name="index.html" crc="210234890" seo="true" mt="1562315036999" redirect="true"/>
-    <file name="produits.html" crc="312042413" seo="true" mt="1562594756492" redirect="true"/>
-    <file name="biostimulants.html" crc="4109542932" seo="true" mt="1562315036999" redirect="true"/>
-    <file name="engrais-standards.html" crc="134516149" seo="true" mt="1562592974334" redirect="true"/>
-    <file name="correcteurs-de-carrence.html" crc="3797143224" seo="true" mt="1562594761644" redirect="true"/>
-    <file name="agents-pollinisateurs.html" crc="293526731" seo="true" mt="1562315036999" redirect="true"/>
-    <file name="formations.html" crc="267478914" seo="true" mt="1562315036999" redirect="true"/>
-    <file name="a-propos.html" crc="380353121" seo="true" mt="1562315036999" redirect="true"/>
-    <file name="gallerie.html" crc="3938726898" seo="true" mt="1561913173117" redirect="false"/>
-    <file name="contact.html" crc="125241138" seo="true" mt="1562315036999" redirect="true"/>
+    <file name="index.html" crc="424177631" seo="true" mt="1562923777543" redirect="true"/>
+    <file name="produits.html" crc="4128705266" seo="true" mt="1562923892064" redirect="true"/>
+    <file name="biostimulants.html" crc="105085714" seo="true" mt="1562923777543" redirect="true"/>
+    <file name="engrais-standards.html" crc="4253135889" seo="true" mt="1562923777543" redirect="true"/>
+    <file name="agents-pollinisateurs.html" crc="380420185" seo="true" mt="1562923777543" redirect="true"/>
+    <file name="formations.html" crc="242174961" seo="true" mt="1562923956211" redirect="true"/>
+    <file name="a-propos.html" crc="3893523750" seo="true" mt="1562923777543" redirect="true"/>
+    <file name="gallerie.html" crc="3902236817" seo="true" mt="1562923969274" redirect="true"/>
+    <file name="contact.html" crc="125135073" seo="true" mt="1562923777543" redirect="true"/>
+    <file name="correcteurs-de-carences.html" crc="3786983273" seo="true" mt="1562923777543" redirect="true"/>
   </folder>
-  <file name="index.html" crc="358718212" seo="true" mt="1562657166948" redirect="true"/>
-  <file name="a-propos.html" crc="4190560365" seo="true" mt="1562656765568" redirect="true"/>
-  <file name="gallerie.html" crc="84520982" seo="true" mt="1561913173540" redirect="false"/>
-  <file name="contact.html" crc="314703734" seo="true" mt="1562656765568" redirect="true"/>
-  <file name="produits.html" crc="142362887" seo="true" mt="1562656765568" redirect="true"/>
-  <file name="biostimulants.html" crc="3946494350" seo="true" mt="1562656765568" redirect="true"/>
-  <file name="agents-pollinisateurs.html" crc="268513845" seo="true" mt="1562656765568" redirect="true"/>
-  <file name="formations.html" crc="4185906631" seo="true" mt="1562656765568" redirect="true"/>
-  <file name="engrais-standards.html" crc="396656702" seo="true" mt="1562656765568" redirect="true"/>
-  <file name="correcteurs-de-carrence.html" crc="3811358033" seo="true" mt="1562656765568" redirect="true"/>
+  <file name="index.html" crc="3971936393" seo="true" mt="1562923469857" redirect="true"/>
+  <file name="a-propos.html" crc="484313111" seo="true" mt="1562923469857" redirect="true"/>
+  <file name="gallerie.html" crc="3847206334" seo="true" mt="1562923469857" redirect="true"/>
+  <file name="contact.html" crc="4149117585" seo="true" mt="1562923469857" redirect="true"/>
+  <file name="produits.html" crc="3966009398" seo="true" mt="1562923469857" redirect="true"/>
+  <file name="biostimulants.html" crc="362328913" seo="true" mt="1562923469857" redirect="true"/>
+  <file name="agents-pollinisateurs.html" crc="232051879" seo="true" mt="1562923469857" redirect="true"/>
+  <file name="formations.html" crc="3802043831" seo="true" mt="1562923469857" redirect="true"/>
+  <file name="engrais-standards.html" crc="438369353" seo="true" mt="1562923469857" redirect="true"/>
+  <file name="correcteurs-de-carrence.html" crc="3864969005" seo="true" mt="1562923469857" redirect="true"/>
 </manifest>
